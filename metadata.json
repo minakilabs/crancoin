@@ -1,0 +1,19 @@
+{
+  "name": "Crancoin",
+  "symbol": "CRAN",
+  "description": "Crancoin is a Solana-based meme token created by MinakiLabs. https://www.minakilabs.com",
+  "image": "https://github.com/minakilabs/crancoin/blob/master/cran-best.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Purpose", "value": "Utility" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/minakilabs/crancoin/blob/master/cran-best.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
