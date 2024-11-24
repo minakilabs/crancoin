@@ -10,7 +10,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/minakilabs/crancoin/blob/master/cran-best.png",
+        "uri": "https://raw.githubusercontent.com/minakilabs/crancoin/refs/heads/master/cran-best.png",
         "type": "image/png"
       }
     ]
